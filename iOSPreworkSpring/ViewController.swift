@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
 
     @IBOutlet weak var firstNameTextField: UITextField!
     @IBOutlet weak var lastNameTextField: UITextField!
@@ -17,10 +19,20 @@ class ViewController: UIViewController {
     @IBOutlet weak var numberOfPetsLabel: UILabel!
     @IBOutlet weak var morePetsStepper: UIStepper!
     @IBOutlet weak var morePetsSwitch: UISwitch!
+    @IBOutlet weak var darkModeSwitch: UISwitch!
+    
     
     @IBAction func stepperDidChange(_ sender: UIStepper) {
        
        numberOfPetsLabel.text = "\(Int(sender.value))"
+    }
+    
+    @IBAction func darkModeSwitchTapped(_sender: UISwitch) {
+        if darkModeSwitch.isOn {
+            view.backgroundColor = .red
+        } else {
+            view.backgroundColor = .white
+        }
     }
     
     @IBAction func introduceSelfDidTapped(_sender: UIButton) {
@@ -44,7 +56,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        darkModeSwitch.setOn(false, animated: true)
+        
+        
     }
 
     
