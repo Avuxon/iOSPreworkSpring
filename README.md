@@ -6,7 +6,7 @@ This app is a beginner app made for iOS.
 This is my first ever IOS Application. Although this app is fairly simple, building it was fun and I did encounter some obstacles. First off, I would make simple mistakes such as forgetting to update the reference to the update variables that I created. Also, I ran into trouble updating all of the labels and values of the sliders. Overall, I think this was a great starter project and I can't wait to learn more.
 
 ### App Walk-though
-<!-- <img src="http://g.recordit.co/7ssXbppSXa.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="https://s3.amazonaws.com/img0.recordit.co/7ssXbppSXa.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1675449050&Signature=3nwQZ4P317tpwzE3Efkdhu5lBk4%3D" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 
