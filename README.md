@@ -7,6 +7,7 @@ This is my first ever IOS Application. Although this app is fairly simple, build
 
 ### App Walk-though
 <!-- <img src="http://g.recordit.co/7ssXbppSXa.gif" width=200><br> OR <img src="http://g.recordit.co/7ssXbppSXa.gif" width=200><br> -->
+![Alt Text](http://g.recordit.co/7ssXbppSXa.gif)
 
 ### Required Features
 
