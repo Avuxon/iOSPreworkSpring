@@ -1,13 +1,15 @@
 ## iOS Prework - Sathwik Yanamaddi
 
 ### App Description
-blah blah
+This app is a beginner app made for iOS.
+
+This is my first ever IOS Application. Although this app is fairly simple, building it was fun and I did encounter some obstacles. First off, I would make simple mistakes such as forgetting to update the reference to the update variables that I created. Also, I ran into trouble updating all of the labels and values of the sliders. Overall, I think this was a great starter project and I can't wait to learn more.
 
 ### App Walk-though
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src="http://g.recordit.co/7ssXbppSXa.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 
