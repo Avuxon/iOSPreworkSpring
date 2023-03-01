@@ -3,7 +3,7 @@
 ### App Description
 This app is a beginner app made for iOS.
 
-This is my first ever IOS Application. Although this app is fairly simple, building it was fun and I did encounter some obstacles. First off, I would make simple mistakes such as forgetting to update the reference to the update variables that I created. Also, I ran into trouble updating all of the labels and values of the sliders. Overall, I think this was a great starter project and I can't wait to learn more.
+This is my first ever IOS Application. Although this app is fairly simple, building it was fun and I did encounter some obstacles. First off, I would make simple mistakes such as forgetting to update the reference to the update variables that I created. Also, I ran into trouble updating all of the labels and values of the sliders. Overall, I think this was a great starter project!
 
 ### App Walk-though
 <!-- <img src="http://g.recordit.co/7ssXbppSXa.gif" width=200><br> OR <img src="http://g.recordit.co/7ssXbppSXa.gif" width=200><br> -->
